@@ -1,8 +1,8 @@
-# 👋 Hi there, my name is Michael
+## 👋 Hi there, my name is Michael
 
-## 💼 I'm a Data Engineer working in London, known for adaptability, enthusiasm, and the ability to thrive in a fast-paced environment.
+### 💼 I'm a Data Engineer working in London, known for adaptability, enthusiasm, and the ability to thrive in a fast-paced environment.
 
-## 🔭 I’m currently working on the following certificates.
+### 🔭 I’m currently working on the following certificates.
 - Databricks Certified Data Engineer Associate
 - AWS Certified Solutions Architect Associate
 
