@@ -9,7 +9,7 @@
 🧰 Languages & Tools:
 - Languages: Python, SQL, Go
 - Data: ETL, PostgreSQL, MySQL, Pandas
-- Cloud: AWS(S3, Redshift, Lambda, EC2), Databricks
+- Cloud: AWS (S3, Redshift, Lambda, EC2), Databricks
 - Version Control: Git, GitHub  
 - Other: Docker, WSL
   
